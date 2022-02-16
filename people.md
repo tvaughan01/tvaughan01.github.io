@@ -1,7 +1,7 @@
 ---
-layout: page
-title: Group Members
-permalink: /people/
+layout: resume
+title: Taylor R. Vaughan
+permalink: /resume/
 ---
 
-Include information about current and past group members here. 
+put resume info here 
