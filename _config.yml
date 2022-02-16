@@ -11,7 +11,7 @@ description: Second year Biochemistry major
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 # To use the Cal Poly Learn by Doing logo put https://raw.githubusercontent.com/[username]/[website_name]/master/images/CP_LBD.jpg
 # But fill in your actual username and website name
-avatar: https://raw.githubusercontent.com/tvaughan01/tvaughan.github.io/master/images/CP_LBD.jpg
+avatar: https://raw.githubusercontent.com/tvaughan01/tvaughan01.github.io/master/images/CP_LBD.jpg
 
 #
 # Flags below are optional
@@ -20,11 +20,11 @@ avatar: https://raw.githubusercontent.com/tvaughan01/tvaughan.github.io/master/i
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email:tvaugh01@calpoly.edu
+  email: tvaugh01@calpoly.edu
   facebook:
   flickr:
   github: tvaughan01
-  instagram:taylorvaughann
+  instagram: taylorvaughann
   linkedin:
   pinterest:
   rss: # just type anything here for a working RSS icon
