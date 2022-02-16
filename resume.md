@@ -1,6 +1,6 @@
 ---
-layout: resume
-title: Taylor R. Vaughan
+layout: page
+title: Resume
 permalink: /resume/
 ---
 
