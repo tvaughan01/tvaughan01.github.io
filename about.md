@@ -3,7 +3,8 @@ layout: page
 title: About
 permalink: /about/
 ---
-
+<img src="{{site.baseurl}}/images/TVpic.jpg" alt="Picture of blah" width="100" 
+style="float: left; margin-top: 0px; margin-right: 10px" />
 Here is where I type a paragraph about me and my interests and my future and my goals and life. 
 
 ### More Information
