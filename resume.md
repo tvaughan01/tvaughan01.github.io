@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Resume
-permalink: /resume/
+title: Education
+permalink: /education/
 ---
 
-put resume info here 
+put educational experience/ skills info here 
