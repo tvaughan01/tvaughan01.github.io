@@ -9,7 +9,7 @@ TAYLOR R. VAUGHAN
  
    San Luis Obispo, CA 93405 • (805) 256-5185 • tvaugh01@calpoly.edu  
 
-Education:
+EDUCATION
 
 Bachelor of Science: Biochemistry, Expected to graduate in 06/2024 
 
@@ -24,12 +24,12 @@ GPA: 3.2
 •	Relevant Coursework Completed: Calculus series, Gen Chem series, O Chem series and Physics series in progress.
 
 
-Objective
+OBJECTIVE
 
 As a second year Biochemistry student, with various job experiences, I am familiar with what it means to work hard and stay motivated. I have learned various skills throughout my time as a student, peer, volunteer, and employee. I am looking for a part time research position, as an opportunity to further my interest in chemistry and gain more experience in the field.
 
 
-Skills
+SKILLS
 
 •	Lab skills including: data collection, TLC interpretation, running IR or NMR scans, distillation, extraction/ washings, caring and cleaning glassware, disposing of specific wastes.
 
@@ -38,7 +38,7 @@ Skills
 •	Multitasking Abilities
 
 
-Work History
+WORK HISTORY
 
 Distribution Associate, 07/2020 to 09/2020 
 
